@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/recipe/static/css/main.52fcbcc5.css",
+    "main.js": "/recipe/static/js/main.73b98148.js",
+    "static/media/error.gif": "/recipe/static/media/error.10a9d4e3e70a27a1530a.gif",
+    "index.html": "/recipe/index.html",
+    "main.52fcbcc5.css.map": "/recipe/static/css/main.52fcbcc5.css.map",
+    "main.73b98148.js.map": "/recipe/static/js/main.73b98148.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52fcbcc5.css",
+    "static/js/main.73b98148.js"
+  ]
+}
